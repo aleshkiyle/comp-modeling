@@ -1,0 +1,44 @@
+D:\lab1\bin\Debug\lab1.exe.config
+D:\lab1\bin\Debug\lab1.exe
+D:\lab1\bin\Debug\lab1.pdb
+D:\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\lab1\obj\Debug\lab1.Form1.resources
+D:\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\lab1\obj\Debug\lab1.exe
+D:\lab1\obj\Debug\lab1.pdb
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\bin\Debug\lab1.exe.config
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\bin\Debug\lab1.exe
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\bin\Debug\lab1.pdb
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.Form1.resources
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.Properties.Resources.resources
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.exe
+F:\Универ\Университет\last dance\Компьютерное моделирование\lab1\obj\Debug\lab1.pdb
+D:\учеба\4 курс\Компьютерное моделирование\lab1\bin\Debug\lab1.exe.config
+D:\учеба\4 курс\Компьютерное моделирование\lab1\bin\Debug\lab1.exe
+D:\учеба\4 курс\Компьютерное моделирование\lab1\bin\Debug\lab1.pdb
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.Form1.resources
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.exe
+D:\учеба\4 курс\Компьютерное моделирование\lab1\obj\Debug\lab1.pdb
+C:\Users\aleshkiyle\Desktop\lab1\bin\Debug\lab1.exe.config
+C:\Users\aleshkiyle\Desktop\lab1\bin\Debug\lab1.exe
+C:\Users\aleshkiyle\Desktop\lab1\bin\Debug\lab1.pdb
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.exe
+C:\Users\aleshkiyle\Desktop\lab1\obj\Debug\lab1.pdb
